@@ -52,8 +52,12 @@ body {
 	padding-left: 30px;
 	padding-right: 15px;
 }
+.mid {
+	padding-left: 30px;
+	padding-right: 15px;
+}
 #head {
-	margin-left: 152px;
+	margin-left: 190px;
 	padding-left:0;
 	font-size: 130%;
 	margin-top: 0;
@@ -174,5 +178,11 @@ a:focus {
 a:hover {     
   background: black;
   text-decoration-color: black;
+}
+
+.left a:hover {     
+  background: black;
+  text-decoration-color: black;
+  border-bottom: 2px solid white;
 }
 
